@@ -150,13 +150,3 @@ java Main
 ## 📝 Conclusion
 
 This project is a complete voter registration management system built using Java and MySQL. It performs all essential CRUD operations and provides a simple console-based interface for managing voter data effectively.
-
----
-
-If you want, I can also make:
-✔️ A more stylish README with badges
-✔️ Project documentation (PDF)
-✔️ UML diagrams
-✔️ GitHub profile content
-
-Just tell me!
