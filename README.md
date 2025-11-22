@@ -1,5 +1,8 @@
 Unique Voter Registration System – README
+
+
 📌 Project Overview
+
 The Unique Voter Registration System is a Java-based console application designed to manage voter registrations efficiently. It allows users to register new voters, view all registered voters, search for a voter, delete voter records, and count the total number of registered voters.
 
 The system uses MySQL as the database and connects through a custom DBConnection class.
@@ -140,3 +143,4 @@ If you want, I can also prepare:
 ✅ UML diagrams (Class Diagram, Use Case, Activity)
 
 Just tell me!
+
